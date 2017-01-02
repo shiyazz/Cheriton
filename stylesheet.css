@@ -1,0 +1,28 @@
+#heading {
+  color: red;
+  font-size: auto;
+  background-color: blue;
+}
+#nav {
+  background-color: blue;
+  height: 70px;
+
+}
+ul li a {
+  list-style-type: none;
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  display: block;
+  width: 80px;
+  margin: 5px;
+  padding: 10px;
+  border-color: black;
+  border-radius: 4px;
+  border-style: solid;
+  text-align: center;
+  }
+ul li a:hover{
+  background-color: grey;
+  color: black;
+}
